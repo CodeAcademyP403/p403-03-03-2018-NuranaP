@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#simple7 .class1 {
+    background-image: url("simple7.jpg");
+    background-size: cover;
+    height: 245px;
+    width: 100%;
+    color: white;
+    padding-left: 45px;
+    padding-top: 30px;
+    font-family: Tahoma;
+}
+hr {
+    width: 91%;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.class1 > p {
+    padding-top: 25px;
+    border: 1px solid black;
+    width: 400px;
+    height: 100px;
+    text-align: justify;
+}
+span {
+    font-family: Lucida Calligraphy;
+}
+button {
+    margin-top: 40px;
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+button:last-child {
+    margin-left: 5px;
+}
+#simple7 .class2 > h2{
+    text-align: center;
+    padding-top: 20px;
+    color: #bbbbbb;
+    letter-spacing: 2px;
+    font-family: Tahoma;
+}
+.simple71 {
+    border-right-style: solid;
+    border-color: darkgray;
+    display: inline-block;
+    float: left;
+    height: 230px;
+    width: 23%;
+    margin-top: 10px;
+    margin-left: 60px;
+    border-width: 0.1em;
+}
+.simple71 > i{
+    font-size: 1.8em;
+    margin-left: 130px;
+    margin-top: 25px;
+    color: rgb(45, 40, 35);
+}
+.simple71 > h3{
+    color: rgb(45, 40, 35); 
+    margin-left: 90px;
+    margin-top: 10px;
+    font-family: Tahoma;
+}
+.simple71 > p {
+    padding-top: 25px;
+    border: 1px solid white;
+    width: 246px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 20px;
+    color: rgb(183, 180, 180);
+    font-family: Tahoma;
+}
+.simple72 {
+    border-right-style: solid;
+    border-color: darkgray;
+    display: inline-block;
+    float: left;
+    height: 230px;
+    width: 23%;
+    margin-top: 10px;
+    border-width: 0.1em;
+}
+.simple72 > i {
+    font-size: 1.8em;
+    margin-left: 140px;
+    margin-top: 25px;
+    color: rgb(45, 40, 35);
+}
+.simple72 > h3 {
+    color: rgb(45, 40, 35); 
+    margin-left: 95px;
+    margin-top: 10px;
+    font-family: Tahoma;
+}
+.simple72 > p {
+    padding-top: 25px;
+    border: 1px solid white;
+    width: 246px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 30px;
+    color: rgb(183, 180, 180);
+    font-family: Tahoma;
+}
+.simple73 {
+    border-right-style: solid;
+    border-color: darkgray;
+    display: inline-block;
+    float: left;
+    height: 230px;
+    width: 23%;
+    margin-top: 10px;
+    border-width: 0.1em;
+}
+.simple73 > i {
+    font-size: 1.8em;
+    margin-left: 130px;
+    margin-top: 25px;
+    color: rgb(45, 40, 35);
+}
+.simple73 > h3 {
+    color: rgb(45, 40, 35);
+    margin-left: 115px;
+    margin-top: 10px;
+    font-family: Tahoma;
+}
+.simple73 > span {
+    font-family: Segoe Script;
+}
+.simple73 > p {
+    padding-top: 21px;
+    border: 1px solid white;
+    width: 246px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 30px;
+    color: rgb(183, 180, 180);
+    font-family: Tahoma;
+}
+.simple74 {
+    border-color: darkgray;
+    display: inline-block;
+    float: left;
+    height: 230px;
+    width: 23%;
+    margin-top: 10px;
+    border-width: 0.1em;
+}
+.simple74 > i {
+    font-size: 1.8em;
+    margin-left: 140px;
+    margin-top: 25px;
+    color: rgb(45, 40, 35);
+}
+.simple74 > h3 {
+    color: rgb(45, 40, 35);
+    margin-left: 105px;
+    margin-top: 10px;
+    font-family: Tahoma;
+}
+.simple74 > p {
+    padding-top: 21px;
+    border: 1px solid white;
+    width: 246px;
+    height: 100px;
+    text-align: justify;
+    margin-left: 30px;
+    color: rgb(183, 180, 180);
+    font-family: Tahoma;
+}
